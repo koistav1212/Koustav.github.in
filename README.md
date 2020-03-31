@@ -15,7 +15,7 @@ body, html {
 
 .firstbackimg {
   /* The image used */
-  background-image: url("https://www.technocrazed.com/wp-content/uploads/2015/12/beautiful-wallpaper-download-14.jpg");
+  background-image: url("super2.jpg");
   
   /* Add the blur effect */
   filter: blur(1px);
@@ -71,7 +71,7 @@ top: .1%;
 	}
 .secondbackimg {
   /* The image used */
-  background-image: url("https://www.technocrazed.com/wp-content/uploads/2015/12/beautiful-wallpaper-download-14.jpg");
+  background-image: url("super2.jpg");
   
   /* Add the blur effect */
   filter: blur(3px);
@@ -146,7 +146,7 @@ top: .1%;
 
 <div class="first"> 
 	<div class="firstimg" >
-	<img src="C:\Users\91861\Pictures\Camera Roll\IMG20200203230242.jpg"></img>
+	<img src="PROfile_git1.png"></img>
 </div>
 <div class="content">
 
