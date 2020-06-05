@@ -352,7 +352,7 @@ input {
 	</form>
 </div>
   <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
-      <script  src='js/index1.js'></script>
+      <script  src='index1.js'></script>
 
 </body>
 
